@@ -14,18 +14,13 @@ Building Agents, RAG systems and useful AI products.
 
 ---
 
-- 🤖 I'm currently focused on AI Application Development.
+- I’m currently learning AGENT knowledge 
 
-- 🧠 I'm exploring and building with LangChain, LangGraph, RAG and MCP.
 
-- ⚡ I enjoy building AI Agents, automation tools and desktop applications.
+- Though nowadays I'm not capable of creating some awesome projects on my own, I hope one day I'll make greater contributions to Open Source.
 
-- 🛠️ Tools I use: VS Code · Codex · Git · Docker · Playwright
-
-- 🌱 I'm continuously improving my engineering skills and hope to make meaningful contributions to Open Source.
-
-- 📫 Contact me via: z2638223775@gmail.com
-
+-  Contact me via: z2638223775@gmail.com
+-  
 <br>
 
 # My Skill Set
