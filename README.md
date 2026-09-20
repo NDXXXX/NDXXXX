@@ -22,7 +22,7 @@ Building Agents, RAG systems and useful AI products.
 -  Contact me via: z2638223775@gmail.com
 <br>
 
-# My Skill Set
+# My Skill Set（learning...）
 
 ---
 
