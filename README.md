@@ -38,8 +38,7 @@ Building Agents, RAG systems and useful AI products.
 
 ---
 
-"I'm building a bot that fully automates social media management—helping you track trending topics, edit images, and organize your thoughts."
-<br>
+## "I'm building a social media bot that helps you catch trending topics, edit images, and organize your ideas."
 
 <div align="center">
 
