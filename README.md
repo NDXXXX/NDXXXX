@@ -1,26 +1,30 @@
 <div align="center">
 
-# This is ZY.
+<h1>This is ZY.</h1>
 
----
+<h3>AI Application Engineer</h3>
 
-### AI Application Engineer.
+<p>
 
-### Building Agents, RAG systems and useful AI products.
+Building Agents, RAG systems and useful AI products.
+
+</p>
 
 </div>
 
-<br>
+---
 
 - 🤖 I'm currently focused on AI Application Development.
+
+- 🧠 I'm exploring and building with LangChain, LangGraph, RAG and MCP.
 
 - ⚡ I enjoy building AI Agents, automation tools and desktop applications.
 
 - 🛠️ Tools I use: VS Code · Codex · Git · Docker · Playwright
 
-- Though nowadays I'm not capable of creating some awesome projects on my own, I hope one day I'll make greater contributions to Open Source.
+- 🌱 I'm continuously improving my engineering skills and hope to make meaningful contributions to Open Source.
 
-- 📫 Contact with me via: z2638223775@gmail.com
+- 📫 Contact me via: z2638223775@gmail.com
 
 <br>
 
@@ -30,49 +34,7 @@
 
 <div align="center">
 
-### Languages
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" />
-
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55" height="55" />
-
-<br><br>
-
-### AI / Agent
-
-LangChain · LangGraph · RAG · MCP
-
-<br>
-
-### Frontend
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" height="55" />
-
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="55" height="55" />
-
-<br><br>
-
-### Database
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55" height="55" />
-
-<br><br>
-
-### Tools
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" height="55" />
-
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" />
-
-&nbsp;&nbsp;&nbsp;
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" height="55" />
+<img src="https://skillicons.dev/icons?i=python,ts,react,nextjs,postgres,docker,git,vscode" />
 
 </div>
 
@@ -91,20 +53,6 @@ LangChain · LangGraph · RAG · MCP
 - 🖥️ Desktop AI Apps — building usable AI products with modern interfaces
 
 - ⚙️ Automation — browser automation and AI-powered workflows
-
-<br>
-
-# Tech Stack
-
----
-
-<div align="center">
-
-Python · TypeScript · LangChain · LangGraph · RAG · MCP
-
-React · Next.js · PostgreSQL · Docker · Git · Playwright
-
-</div>
 
 <br>
 
