@@ -20,7 +20,6 @@ Building Agents, RAG systems and useful AI products.
 - Though nowadays I'm not capable of creating some awesome projects on my own, I hope one day I'll make greater contributions to Open Source.
 
 -  Contact me via: z2638223775@gmail.com
--  
 <br>
 
 # My Skill Set
@@ -39,16 +38,7 @@ Building Agents, RAG systems and useful AI products.
 
 ---
 
-- 🤖 AI Agents — tool-using agents and multi-step workflows
-
-- 🔌 MCP Tools — connecting agents with external services and data
-
-- 📚 RAG Applications — retrieval-based AI applications
-
-- 🖥️ Desktop AI Apps — building usable AI products with modern interfaces
-
-- ⚙️ Automation — browser automation and AI-powered workflows
-
+"I'm building a bot that fully automates social media management—helping you track trending topics, edit images, and organize your thoughts."
 <br>
 
 <div align="center">
